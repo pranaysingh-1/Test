@@ -12,3 +12,7 @@ During the class Ihave learned about different infinities
 Integer.MAX_VALUE
 Double.MAX_VALUE + 1;
 ```
+
+**Note**
+
+Use *JSHELL* to experiment with java
